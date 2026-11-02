@@ -1,0 +1,11 @@
+{
+ "ph": {"mean": 7.0940, "std": 1.5166},
+ "Hardness": {"mean": 196.7648, "std": 32.0866},
+ "Solids": {"mean": 22043.1350, "std": 8719.7933},
+ "Chloramines": {"mean": 7.1070, "std": 1.5907},
+ "Sulfate": {"mean": 332.9695, "std": 42.3470},
+ "Conductivity": {"mean": 426.2799, "std": 80.3371},
+ "Organic_carbon": {"mean": 14.2640, "std": 3.3400},
+ "Trihalomethanes": {"mean": 66.7453, "std": 16.3473},
+ "Turbidity": {"mean": 3.9546, "std": 0.7805}
+}
